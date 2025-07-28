@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hung Nguyen (Peter)</h1>
-<h3 align="center">I am a full-stack developer from Vietnam. I’m very happy that you visited my profile.</h3>
+<h3 align="center">I am a web developer with over 3 years of experience, including 1.5 years in backend development using Laravel and more than 2 years specializing in frontend development with ReactJS. I have a solid understanding of architecture design, UX/UI principles, and software design patterns. My hands-on experience spans both frontend and backend technologies such as Next.js, NestJS, Docker, Redis, and Pub/Sub—enabling me to build scalable, high-performance, and maintainable systems. Additionally, I leverage cloud services like Firebase and AWS, implement CI/CD pipelines, and design serverless architectures to deliver secure and efficient cloud-native applications.</h3>
 
 - 🔭 I’m currently working on [Insida Web App](https://dev-web.insidaapp.com/)
 
@@ -8,8 +8,6 @@
 - 💬 Ask me about **Reactjs, Nextjs, Docker,...**
 
 - 📫 How to reach me **nbhung278@gmail.com**
-
-- ⚡ Fun fact **Did you know? Peter from Peter Griffin is a pretty funny animated character.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
