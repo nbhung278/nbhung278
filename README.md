@@ -12,13 +12,20 @@
 
 ## About me
 
-Full-Stack Developer based in **Hanoi, Vietnam** with **4+ years** of experience building scalable web applications across product and enterprise teams.
+I'm a Full-Stack Developer based in **Hanoi, Vietnam** with **4+ years** of experience building scalable web applications across product and enterprise teams. Since 2021 I've worked on a range of products: a traceability platform for agricultural products, a 25-member team building a large-scale social network on microservices, a remote contract for an Australian property marketplace, and today a SaaS customer-support platform used by thousands of Shopify merchants worldwide.
 
-- 💼 Currently at **[Avada Group](https://avada.io)**, building **[Chatty](https://apps.shopify.com/chatty)** — AI chatbot & live chat for Shopify merchants (#1 result for "Chat" on the Shopify App Store, 4.9★, 1,800+ reviews, *Built for Shopify*)
-- ⚡ Strong in **real-time & event-driven systems** — Socket.IO, WebSocket, Redis, Pub/Sub, BullMQ
-- 🤖 Hands-on with **AI integration** — OpenAI GPT-4o, Weaviate vector search, RAG-style chatbots
-- ☁️ **AWS Certified Developer – Associate**; ships on AWS, Google Cloud, Docker and CI/CD
+I like owning features end to end: designing the API and data model, building the real-time layer, and polishing the React UI on top. I care most about systems that stay **fast and reliable under real load**. In practice that means caching, message queues, solid auth and security, and code that the next developer can easily pick up.
+
+- 💼 Currently at **[Avada Group](https://avada.io)**, building **[Chatty](https://apps.shopify.com/chatty)**, an AI chatbot & live chat app for Shopify merchants (#1 result for "Chat" on the Shopify App Store, 4.9★, 1,800+ reviews, *Built for Shopify*)
+- ⚡ Strong in **real-time & event-driven systems**: Socket.IO, WebSocket, Redis, Google Cloud Pub/Sub, BullMQ
+- 🤖 Hands-on with **AI integration**: OpenAI GPT-4o, Weaviate vector search, context-aware chatbots for product recommendations and order tracking
+- 🛒 Experienced with **e-commerce & payments**: checkout flows, order management, Vietnamese bank & card payment integration
+- 🔐 Security-minded: **JWT refresh-token rotation, OAuth 2.0, CSRF protection, RBAC**, per-device session management
+- ☁️ **AWS Certified Developer – Associate**; ships on AWS, Google Cloud, Docker and CI/CD pipelines
+- 🌏 Comfortable working **async with distributed, cross-timezone teams**
 - 🌱 Currently exploring **microservices with NestJS & Nx** and production-grade infrastructure
+- 💬 Ask me about **React / Next.js, NestJS, real-time systems, Redis, AWS**
+- 📫 Reach me at **nbhung278@gmail.com**
 
 ## Tech stack
 
