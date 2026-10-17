@@ -1,17 +1,71 @@
-<h1 align="center">Hi 👋, I'm Hung Nguyen (Peter)</h1>
-<p align="justify" >I am a web developer with over 4 years of experience, including more than 1 year in backend development using Laravel and around 3 years specializing in Node.js and ReactJS. I have a strong grasp of architectural design, UX/UI principles, and software design patterns. My experience spans frontend and backend technologies, including Next.js, NestJS, Docker, Redis, and Pub/Sub, enabling me to build scalable, high-performance, and maintainable systems. I also work with cloud platforms such as Firebase and AWS, implement CI/CD pipelines, and design serverless architectures to deliver secure and efficient cloud-native applications.</p>
+<h1 align="center">Hi, I'm Hung Nguyen (Peter) 👋</h1>
+<h3 align="center">Full-Stack Developer · React · Next.js · NestJS · Node.js · AWS</h3>
 
-- 🔭 I’m currently working on [Insida Web App](https://dev-web.insidaapp.com/)
-
-- 🌱 I’m currently learning **Nextjs and DevOps**
-
-- 💬 Ask me about **Reactjs, Nextjs, Docker,...**
-
-- 📫 How to reach me **nbhung278@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://portfolio-v2-sooty-beta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/hungnb-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nbhung278@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Developer – Associate"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
+
+## About me
+
+Full-Stack Developer based in **Hanoi, Vietnam** with **4+ years** of experience building scalable web applications across product and enterprise teams.
+
+- 💼 Currently at **[Avada Group](https://avada.io)**, building **[Chatty](https://apps.shopify.com/chatty)** — AI chatbot & live chat for Shopify merchants (#1 result for "Chat" on the Shopify App Store, 4.9★, 1,800+ reviews, *Built for Shopify*)
+- ⚡ Strong in **real-time & event-driven systems** — Socket.IO, WebSocket, Redis, Pub/Sub, BullMQ
+- 🤖 Hands-on with **AI integration** — OpenAI GPT-4o, Weaviate vector search, RAG-style chatbots
+- ☁️ **AWS Certified Developer – Associate**; ships on AWS, Google Cloud, Docker and CI/CD
+- 🌱 Currently exploring **microservices with NestJS & Nx** and production-grade infrastructure
+
+## Tech stack
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js" alt="Languages"/>
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,vite" alt="Frontend"/>
+
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,bun,prisma" alt="Backend"/>
+
+**Databases & messaging**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,firebase" alt="Databases"/>
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,cloudflare,nginx,githubactions,gitlab" alt="Cloud & DevOps"/>
+
+## Experience
+
+| Period | Company | Highlights |
+| --- | --- | --- |
+| Mar 2024 – Present | **Avada Group** | [Chatty](https://apps.shopify.com/chatty): context-aware AI chatbot (GPT-4o + Weaviate) handling thousands of conversations daily; omni-channel inbox unifying WhatsApp, Messenger, Instagram & Email in real time; Redis caching + Google Cloud Pub/Sub for catalogs of 20,000+ products |
+| Jul 2024 – Dec 2025 | **Freelance / Contract** | [Insida App](https://insidaapp.com/) — Australian property marketplace: listing & search, real-time chat, S3 media storage and Redis caching that cut average API response time by 30% |
+| Jun 2023 – Mar 2024 | **EMSO JSC** | [Emso](https://emso.vn) social network (25-member team, microservices): owned the marketplace module — orders, checkout, Vietnamese bank & card payments (~1,000 orders/month); real-time notifications with Redux Saga + Socket.IO |
+| Oct 2021 – Mar 2023 | **CSsoft JSC** | [iTrace247](https://itrace247.com/) — product-origin traceability platform; features, maintenance and testing across 6 modules |
+
+## Featured project
+
+### 🦉 [Strix Blog Platform](https://strix-blog.uk)
+
+Multi-tenant blog platform where every creator gets a personal subdomain — deployed on AWS behind Cloudflare.
+
+- Layered auth: JWT refresh-token rotation, Google OAuth 2.0, email OTP, CSRF double-submit, per-device sessions, token versioning to revoke all sessions
+- Real-time notifications & 1:1 DMs over native Bun WebSocket; Redis-buffered view counter flushed to Postgres every 30s
+- RBAC with granular permissions, admin panel with bulk moderation and optimistic locking
+
+`Bun` `Hono` `React 19` `Vite` `PostgreSQL` `Redis` `Prisma` `AWS S3 / CloudFront / Lightsail` `Docker` `Cloudflare`
+
+**Repos:** [API](https://github.com/nbhung278/blog-platform-api) · [Client](https://github.com/nbhung278/blog-platform-client) · [Admin](https://github.com/nbhung278/blog-platform-admin)
+
+## Certifications
+
+- 🏅 **AWS Certified Developer – Associate** — Nov 2025
+- 🏅 **Claude Code in Action** — Feb 2026
+- 🎓 **B.Sc. Information Technology (E-commerce)** — Electric Power University
+
+---
+
+<p align="center"><i>Open to interesting full-stack and backend opportunities — feel free to reach out.</i></p>
