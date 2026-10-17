@@ -12,20 +12,13 @@
 
 ## About me
 
-I'm a Full-Stack Developer based in **Hanoi, Vietnam** with **4+ years** of experience building scalable web applications across product and enterprise teams. Since 2021 I've worked on a range of products: a traceability platform for agricultural products, a 25-member team building a large-scale social network on microservices, a remote contract for an Australian property marketplace, and today a SaaS customer-support platform used by thousands of Shopify merchants worldwide.
+Full-stack dev in Hanoi who loves building things that feel **instant**: chat, notifications, live dashboards, and the event-driven backends behind them. By day I work on [Chatty](https://apps.shopify.com/chatty) at Avada, an AI chatbot & live chat app for Shopify merchants. By night I build side projects to understand how things really work under the hood.
 
-I like owning features end to end: designing the API and data model, building the real-time layer, and polishing the React UI on top. I care most about systems that stay **fast and reliable under real load**. In practice that means caching, message queues, solid auth and security, and code that the next developer can easily pick up.
-
-- 💼 Currently at **[Avada Group](https://avada.io)**, building **[Chatty](https://apps.shopify.com/chatty)**, an AI chatbot & live chat app for Shopify merchants (#1 result for "Chat" on the Shopify App Store, 4.9★, 1,800+ reviews, *Built for Shopify*)
-- ⚡ Strong in **real-time & event-driven systems**: Socket.IO, WebSocket, Redis, Google Cloud Pub/Sub, BullMQ
-- 🤖 Hands-on with **AI integration**: OpenAI GPT-4o, Weaviate vector search, context-aware chatbots for product recommendations and order tracking
-- 🛒 Experienced with **e-commerce & payments**: checkout flows, order management, Vietnamese bank & card payment integration
-- 🔐 Security-minded: **JWT refresh-token rotation, OAuth 2.0, CSRF protection, RBAC**, per-device session management
-- ☁️ **AWS Certified Developer – Associate**; ships on AWS, Google Cloud, Docker and CI/CD pipelines
-- 🌏 Comfortable working **async with distributed, cross-timezone teams**
-- 🌱 Currently exploring **microservices with NestJS & Nx** and production-grade infrastructure
-- 💬 Ask me about **React / Next.js, NestJS, real-time systems, Redis, AWS**
-- 📫 Reach me at **nbhung278@gmail.com**
+- 🔨 **Building:** [Strix](https://strix-blog.uk), a multi-tenant blog platform on Bun + Hono, and **MiniPay**, a small e-wallet for learning microservices with NestJS & Nx
+- 🌱 **Learning:** Node.js internals, distributed systems, cloud infrastructure
+- 🎯 **Interested in:** real-time systems, AI-powered products, developer tooling
+- 💬 **Ask me about:** React / Next.js, NestJS, Socket.IO, Redis, AWS
+- 📫 **Reach me:** nbhung278@gmail.com
 
 ## Tech stack
 
@@ -44,14 +37,12 @@ I like owning features end to end: designing the API and data model, building th
 **Cloud & DevOps**<br/>
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,cloudflare,nginx,githubactions,gitlab" alt="Cloud & DevOps"/>
 
-## Experience
+## Where I've worked
 
-| Period | Company | Highlights |
-| --- | --- | --- |
-| Mar 2024 – Present | **Avada Group** | [Chatty](https://apps.shopify.com/chatty): context-aware AI chatbot (GPT-4o + Weaviate) handling thousands of conversations daily; omni-channel inbox unifying WhatsApp, Messenger, Instagram & Email in real time; Redis caching + Google Cloud Pub/Sub for catalogs of 20,000+ products |
-| Jul 2024 – Dec 2025 | **Freelance / Contract** | [Insida App](https://insidaapp.com/) — Australian property marketplace: listing & search, real-time chat, S3 media storage and Redis caching that cut average API response time by 30% |
-| Jun 2023 – Mar 2024 | **EMSO JSC** | [Emso](https://emso.vn) social network (25-member team, microservices): owned the marketplace module — orders, checkout, Vietnamese bank & card payments (~1,000 orders/month); real-time notifications with Redux Saga + Socket.IO |
-| Oct 2021 – Mar 2023 | **CSsoft JSC** | [iTrace247](https://itrace247.com/) — product-origin traceability platform; features, maintenance and testing across 6 modules |
+- **Avada Group** (2024 – now): [Chatty](https://apps.shopify.com/chatty), AI chatbot & omni-channel live chat for Shopify
+- **Freelance** (2024 – 2025): [Insida](https://insidaapp.com/), property marketplace in Australia
+- **EMSO** (2023 – 2024): [Emso](https://emso.vn) social network, marketplace & payments module
+- **CSsoft** (2021 – 2023): [iTrace247](https://itrace247.com/), product traceability platform
 
 ## Featured project
 
