@@ -14,7 +14,7 @@
 
 Full-stack dev in Hanoi who loves building things that feel **instant**: chat, notifications, live dashboards, and the event-driven backends behind them. By day I work on [Chatty](https://apps.shopify.com/chatty) at Avada, an AI chatbot & live chat app for Shopify merchants. By night I build side projects to understand how things really work under the hood.
 
-- 🔨 **Building:** [Strix](https://strix-blog.uk), a multi-tenant blog platform on Bun + Hono, and **MiniPay**, a small e-wallet for learning microservices with NestJS & Nx
+- 🔨 **Building:** [Strix](https://strix-blog.uk), a multi-tenant blog platform on Bun + Hono, and just getting started on a **livestream platform** with live chat, virtual gifts and an in-app wallet
 - 🌱 **Learning:** Node.js internals, distributed systems, cloud infrastructure
 - 🎯 **Interested in:** real-time systems, AI-powered products, developer tooling
 - 💬 **Ask me about:** React / Next.js, NestJS, Socket.IO, Redis, AWS
